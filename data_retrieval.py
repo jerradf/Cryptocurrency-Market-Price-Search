@@ -1,12 +1,6 @@
 # Author: Jerrad Flores
 # data_retrieval.py
 
-# retrieve_data returns quite a large dictionary (contains not only the price, but hundreds of different type of information that is stored)
-
-# This is why retrieve_price can be called to easily get the price of a given coin (given the coin_name)
-
-
-
 import requests
 
 def retrieve_data(coin_name):

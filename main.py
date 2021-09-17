@@ -1,3 +1,6 @@
+# Author: Jerrad Flores
+# main.py
+
 import coin_info
 
 
